@@ -1,1 +1,2 @@
 """Aidan Megee"""
+main()
